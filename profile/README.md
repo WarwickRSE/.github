@@ -1,5 +1,5 @@
 # Warwick RSE
-We are Research Software Engineering at The University Of Warwick based in the Scientific Computing Reseach Technology Platform.
+We are Research Software Engineering at The University Of Warwick based in the [Scientific Computing Reseach Technology Platform](https://warwick.ac.uk/research/rtp/sc/rse/).
 
 ## What is Research Software Engineering?
 Put simply, creation, maintenance and support of Software dedicated to research - software
